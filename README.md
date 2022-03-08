@@ -1,9 +1,9 @@
 ### Hi there :машу_рукой:, I'm Abu!
 ## I'm a JavaScript Developer
-- :хлопушка: My favourite pastime is reading
-- :![image](https://user-images.githubusercontent.com/95166162/157299713-a249894a-4dba-4440-bbe2-785614608517.png): I am constantly learning new things
-- :мышцы: I can't imagine my life without sport
-- :жонглирование::оттенок_кожи_4: I like to have a professional attitude
+- ![image](https://user-images.githubusercontent.com/95166162/157299989-c9b43028-4fcc-447c-99b4-c9a1407acfcb.png) My favourite pastime is reading
+- ![image](https://user-images.githubusercontent.com/95166162/157299713-a249894a-4dba-4440-bbe2-785614608517.png) I am constantly learning new things
+- ![image](https://user-images.githubusercontent.com/95166162/157300052-69813d1e-adff-4453-827a-2fab5296d226.png) I can't imagine my life without sport
+- ![image](https://user-images.githubusercontent.com/95166162/157300114-55d66e7d-1467-4b06-ae10-57154fc866e1.png) I like to have a professional attitude
 ### Connect with me:
 [<img align="left" alt="AbuYakhayev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="AbuYakhayev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
