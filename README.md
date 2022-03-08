@@ -5,9 +5,9 @@
  - ![image](https://user-images.githubusercontent.com/95166162/157300052-69813d1e-adff-4453-827a-2fab5296d226.png)  I can't imagine my life without sport
  - ![image](https://user-images.githubusercontent.com/95166162/157300114-55d66e7d-1467-4b06-ae10-57154fc866e1.png)  I like to have a professional attitude
 ### Connect with me:
-[<img align="left" alt="AbuYakhayev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="AbuYakhayev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AbuYakhayev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AbuYakhayev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />]
+[<img align="left" alt="AbuYakhayev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+[<img align="left" alt="AbuYakhayev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 <br />
 <br />
 ### Languages and Tools:
