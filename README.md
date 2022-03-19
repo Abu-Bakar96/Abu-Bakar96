@@ -1,4 +1,4 @@
-### Hi there https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f44b@2x.png, I'm Abu!
+### Hi there ![image](https://user-images.githubusercontent.com/95166162/159134250-dc1653b1-c67e-4d5e-8e1b-fe502298fe92.png), I'm Abu!
 ## I'm a JavaScript Developer
  - ![image](https://user-images.githubusercontent.com/95166162/157299989-c9b43028-4fcc-447c-99b4-c9a1407acfcb.png)  My favourite pastime is reading
  - ![image](https://user-images.githubusercontent.com/95166162/157299713-a249894a-4dba-4440-bbe2-785614608517.png)  I am constantly learning new things
