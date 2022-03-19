@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Hadzhi!
+### Hi there 👋, I'm Abu!
 
 ## I'm a JavaScript Developer
 - ⚡ I'm fond of calligrafy
@@ -8,10 +8,9 @@
 - 🤹🏽 I like to have a professional attitude 
 
 ### Connect with me:
-[<img align="left" alt="HadzhiYakhayev | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="HadzhiYakhayev | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="HadzhiYakhayev | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<!-- [<img align="left" alt="HadzhiYakhayev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk] -->
+[<img align="left" alt="AbuYakhayev | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="AbuYakhayev | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="AbuYakhayev | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 <br />
 
@@ -34,7 +33,7 @@
 
 
 
-[telegram]: https://t.me/mufasa_95
+[telegram]: https://t.me/bakar955
 [twitter]: https://www.twitter.com
 [instagram]: https://www.instagram.com
 
